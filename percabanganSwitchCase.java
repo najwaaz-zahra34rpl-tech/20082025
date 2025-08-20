@@ -17,7 +17,7 @@ public class percabanganSwitchCase {
                 System.out.println("Anda jalan terus");
                 break;
             default:
-                break;
+                System.out.println("Warna lampu salah");
         }
         }
 
